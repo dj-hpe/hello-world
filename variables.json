@@ -1,1 +1,14 @@
-
+{
+  "extra_vars": {
+    "input": [
+      {
+        "name": "pb_vmaas_env",
+        "default": "Development"
+      },
+      {
+        "name": "pb_ipaddress",
+        "default": "10.10.10.1"
+      }
+    ]
+  }
+}
